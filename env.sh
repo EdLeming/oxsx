@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Set these for the installation paths
-SCONS_DIR=/Users/Jack/snoplus/snoing/install/scons-2.3.4
-ROOT_DIR=/Users/Jack/snoplus/snoing/install/root-5.34.30
+SCONS_DIR=/Users/el230/snoing/install/scons-2.3.4/
+ROOT_DIR=/Users/el230/snoing/install/root-5.34.30/
 
 # location of armadillo includes and libraries. 
 # If these are installed to any of the standard /usr/... they may be left blank
